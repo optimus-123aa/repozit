@@ -12,7 +12,7 @@ int main()
 	double ser, m = 0;
 	int dob;
 	cout << "Введите значения массива:" << endl;
-	for (int i = 0; i < 10; i++)
+	for (int i = 1; i < 9; i++)
 	{
 		cin >> a[i];
 	}
